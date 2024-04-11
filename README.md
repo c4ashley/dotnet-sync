@@ -49,7 +49,7 @@ robust workaround than just getting the home directory from the location of the 
 ### To download:
 ```
 cd       # Ensure we're in your home directory, for the reason mentioned above (... laziness)
-wget https://github.com/c4ashley/dotnet-sync/dotnet-sync.sh
+wget https://raw.githubusercontent.com/c4ashley/dotnet-sync/master/dotnet-sync.sh
 chmod +x dotnet-sync.sh
 ```
 
